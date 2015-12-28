@@ -23,5 +23,10 @@ namespace BDD_02.WEBFORM
             secondNumber = int.Parse(TextBox2.Text.ToString());
             Label2.Text = new BDD_02.WEBDATA.Calculation().Add(firstNumber, secondNumber).ToString();
         }
+
+        protected void minButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

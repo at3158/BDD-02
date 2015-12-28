@@ -221,6 +221,10 @@
       <LastGenOutput>CalAdd.feature.cs</LastGenOutput>
     </Content>
     <Content Include="WEBFORM\CalWebForm1.aspx" />
+    <Content Include="BDD\CalMin.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CalMin.feature.cs</LastGenOutput>
+    </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\ai.0.15.0-build58334.js" />
     <Content Include="Scripts\ai.0.15.0-build58334.min.js" />
@@ -389,10 +393,16 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="BDDSTEP\CalAddSteps.cs" />
+    <Compile Include="BDDSTEP\CalMinSteps.cs" />
     <Compile Include="BDD\CalAdd.feature.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>CalAdd.feature</DependentUpon>
+    </Compile>
+    <Compile Include="BDD\CalMin.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CalMin.feature</DependentUpon>
     </Compile>
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>

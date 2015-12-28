@@ -11,5 +11,10 @@ namespace BDD_02.WEBDATA
         {
             return first + second;
         }
+
+        internal int Min(int firstNumber, int secondNumber)
+        {
+            return firstNumber - secondNumber;
+        }
     }
 }

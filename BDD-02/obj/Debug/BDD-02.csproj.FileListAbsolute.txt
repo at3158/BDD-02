@@ -93,3 +93,4 @@ C:\PROJECTS\BDD-02\BDD-02\obj\Debug\BDD-02.dll
 C:\PROJECTS\BDD-02\BDD-02\obj\Debug\BDD-02.pdb
 C:\PROJECTS\BDD-02\BDD-02\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\PROJECTS\BDD-02\BDD-02\bin\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\PROJECTS\BDD-02\BDD-02\obj\Debug\BDD-02.csprojResolveAssemblyReference.cache
